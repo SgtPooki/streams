@@ -64,9 +64,7 @@
   },
   "devDependencies": {
     "aegir": "^42.2.5",
-    "it-to-browser-readablestream": "^2.0.6",
-    "sinon": "^17.0.1",
-    "sinon-ts": "^2.0.0"
+    "it-to-browser-readablestream": "^2.0.6"
   },
   "browser": {
     "./dist/src/node-transform-stream.js": false,
