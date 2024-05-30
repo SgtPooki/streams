@@ -60,7 +60,7 @@
   },
   "dependencies": {
     "@sgtpooki/streams-transform-slice": "0.0.0",
-    "aegir": "^42.2.5"
+    "aegir": "^43.0.0"
   },
   "browser": {
   }
